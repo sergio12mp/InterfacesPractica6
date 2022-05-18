@@ -1,0 +1,5 @@
+1- Quitar el placeholder y añadir un texto por encima
+
+2- Meter todos los "radio-buttom" en un "fieldset"
+
+3- Añadir un h1 en el titulo
